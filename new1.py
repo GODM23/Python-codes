@@ -41,4 +41,4 @@ if isinstance(token, bytes):
 print("Exact JWT Token:")
 print(token)
 print("This file has been updated just now")
-pri("AGAIN UPDATED v2")
+print("Latest UPDATED v3")
